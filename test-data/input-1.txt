@@ -1,0 +1,3 @@
+#Egyszeri tüzelés elsődleges tárolóból
+GT4500,1,0,1,0
+TORPEDO,SINGLE
